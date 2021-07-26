@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://vmlk.github.io/](https://vmlk.github.io/)
+- 👨‍💻 All of my projects are available at [https://vmlk.github.io/](https://vmlk.me)
 
 - 📝 I regularly write articles on [https://vmlk.hashnode.dev/](https://vmlk.hashnode.dev/)
 
