@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vmlkushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/vmlkushwaha?logo=twitter&style=for-the-badge" alt="vmlkushwaha" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **vimalkwh05@gmail.com**
 
